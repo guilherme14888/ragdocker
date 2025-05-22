@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+langchain
+llama-index
+chromadb
+pypdf
